@@ -1,4 +1,4 @@
-package org.example.dubbo.filter;
+package org.example.dubbo.utils;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
  * @
  */
 @Component
-public class SpringContextHolder implements ApplicationContextAware {
+public class SprintContextUtil implements ApplicationContextAware {
 
     private static ApplicationContext applicationContext;
 
@@ -20,7 +20,7 @@ public class SpringContextHolder implements ApplicationContextAware {
      * 实现ApplicationContextAware接口的context注入函数, 将其存入静态变量.
      */
     public void setApplicationContext(ApplicationContext applicationContext) {
-        SpringContextHolder.applicationContext = applicationContext; // NOSONAR
+        SprintContextUtil.applicationContext = applicationContext; // NOSONAR
     }
 
     /**

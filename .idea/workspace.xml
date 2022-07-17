@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f594667e-5d77-4ecc-9aee-b2604e6f9335" name="Default Changelist" comment="" />
+    <list default="true" id="f594667e-5d77-4ecc-9aee-b2604e6f9335" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/org/example/dubbo/utils/DemoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/utils/AuthUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/utils/SprintContextUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/java/org/example/dubbo/ConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/org/example/dubbo/ConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/java/org/example/dubbo/filter/DemoFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/org/example/dubbo/filter/DemoFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/dubbo-consumer-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/dubbo-consumer-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/dubbo-consumer-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/dubbo-consumer-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/org/example/dubbo/ConsumerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/org/example/dubbo/ConsumerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/org/example/dubbo/filter/DemoFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/org/example/dubbo/filter/DemoFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/ProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/ProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/config/DubboProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/config/DubboProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/filter/AuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/filter/AuthFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/filter/SpringContextHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/resources/dubbo-provider-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/resources/dubbo-provider-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/dubbo-provider-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/dubbo-provider-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/org/example/dubbo/ProviderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/org/example/dubbo/ProviderApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/org/example/dubbo/config/DubboProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/org/example/dubbo/config/DubboProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/org/example/dubbo/filter/AuthFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/org/example/dubbo/filter/AuthFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/org/example/dubbo/filter/SpringContextHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/org/example/dubbo/utils/PropertiesUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -25,6 +55,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2C3zretZQDWNqclkObXefmXdVJq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,7 +108,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="dubbo-consumer" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +117,7 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.dubbo.ConsumerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,6 +135,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.ApplicationTest.printProperties" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+      <item itemvalue="Spring Boot.ProviderApplication" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ConsumerApplication" />
@@ -119,74 +158,106 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658046256277</updated>
-      <workItem from="1658046260125" duration="9336000" />
+      <workItem from="1658046260125" duration="14514000" />
     </task>
+    <task id="LOCAL-00001" summary="test success">
+      <created>1658061247564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658061247564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test success" />
+    <option name="LAST_COMMIT_MESSAGE" value="test success" />
   </component>
   <component name="WindowStateProjectService">
     <state x="98" y="0" key="#Project_Structure" timestamp="1658047387437">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
     <state x="98" y="0" key="#Project_Structure/0.0.1234.775@0.0.1234.775" timestamp="1658047387437" />
+    <state x="72" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1658065241192">
+      <screen x="0" y="0" width="1234" height="775" />
+    </state>
+    <state x="72" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1234.775@0.0.1234.775" timestamp="1658065241192" />
     <state x="423" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1658051126359">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
     <state x="423" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1234.775@0.0.1234.775" timestamp="1658051126359" />
-    <state width="1191" height="275" key="GridCell.Tab.0.bottom" timestamp="1658060851112">
+    <state x="348" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1658062577239">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="275" key="GridCell.Tab.0.bottom/0.0.1234.775@0.0.1234.775" timestamp="1658060851112" />
-    <state width="1191" height="275" key="GridCell.Tab.0.center" timestamp="1658060851112">
+    <state x="348" y="134" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1234.775@0.0.1234.775" timestamp="1658062577239" />
+    <state width="1191" height="275" key="GridCell.Tab.0.bottom" timestamp="1658070097407">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="275" key="GridCell.Tab.0.center/0.0.1234.775@0.0.1234.775" timestamp="1658060851112" />
-    <state width="1191" height="275" key="GridCell.Tab.0.left" timestamp="1658060851111">
+    <state width="1191" height="275" key="GridCell.Tab.0.bottom/0.0.1234.775@0.0.1234.775" timestamp="1658070097407" />
+    <state width="1191" height="275" key="GridCell.Tab.0.center" timestamp="1658070097407">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="275" key="GridCell.Tab.0.left/0.0.1234.775@0.0.1234.775" timestamp="1658060851111" />
-    <state width="1191" height="275" key="GridCell.Tab.0.right" timestamp="1658060851112">
+    <state width="1191" height="275" key="GridCell.Tab.0.center/0.0.1234.775@0.0.1234.775" timestamp="1658070097407" />
+    <state width="1191" height="275" key="GridCell.Tab.0.left" timestamp="1658070097407">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="275" key="GridCell.Tab.0.right/0.0.1234.775@0.0.1234.775" timestamp="1658060851112" />
-    <state width="1191" height="275" key="GridCell.Tab.1.bottom" timestamp="1658060851112">
+    <state width="1191" height="275" key="GridCell.Tab.0.left/0.0.1234.775@0.0.1234.775" timestamp="1658070097407" />
+    <state width="1191" height="275" key="GridCell.Tab.0.right" timestamp="1658070097407">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="275" key="GridCell.Tab.1.bottom/0.0.1234.775@0.0.1234.775" timestamp="1658060851112" />
-    <state width="1191" height="275" key="GridCell.Tab.1.center" timestamp="1658060851112">
+    <state width="1191" height="275" key="GridCell.Tab.0.right/0.0.1234.775@0.0.1234.775" timestamp="1658070097407" />
+    <state width="1191" height="275" key="GridCell.Tab.1.bottom" timestamp="1658070097407">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="275" key="GridCell.Tab.1.center/0.0.1234.775@0.0.1234.775" timestamp="1658060851112" />
-    <state width="1191" height="275" key="GridCell.Tab.1.left" timestamp="1658060851112">
+    <state width="1191" height="275" key="GridCell.Tab.1.bottom/0.0.1234.775@0.0.1234.775" timestamp="1658070097407" />
+    <state width="1191" height="275" key="GridCell.Tab.1.center" timestamp="1658070097407">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="275" key="GridCell.Tab.1.left/0.0.1234.775@0.0.1234.775" timestamp="1658060851112" />
-    <state width="1191" height="275" key="GridCell.Tab.1.right" timestamp="1658060851112">
+    <state width="1191" height="275" key="GridCell.Tab.1.center/0.0.1234.775@0.0.1234.775" timestamp="1658070097407" />
+    <state width="1191" height="275" key="GridCell.Tab.1.left" timestamp="1658070097407">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="275" key="GridCell.Tab.1.right/0.0.1234.775@0.0.1234.775" timestamp="1658060851112" />
-    <state width="1191" height="242" key="GridCell.Tab.2.bottom" timestamp="1658058573125">
+    <state width="1191" height="275" key="GridCell.Tab.1.left/0.0.1234.775@0.0.1234.775" timestamp="1658070097407" />
+    <state width="1191" height="275" key="GridCell.Tab.1.right" timestamp="1658070097407">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="242" key="GridCell.Tab.2.bottom/0.0.1234.775@0.0.1234.775" timestamp="1658058573125" />
-    <state width="1191" height="242" key="GridCell.Tab.2.center" timestamp="1658058573125">
+    <state width="1191" height="275" key="GridCell.Tab.1.right/0.0.1234.775@0.0.1234.775" timestamp="1658070097407" />
+    <state width="1191" height="242" key="GridCell.Tab.2.bottom" timestamp="1658070052167">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="242" key="GridCell.Tab.2.center/0.0.1234.775@0.0.1234.775" timestamp="1658058573125" />
-    <state width="1191" height="242" key="GridCell.Tab.2.left" timestamp="1658058573125">
+    <state width="1191" height="242" key="GridCell.Tab.2.bottom/0.0.1234.775@0.0.1234.775" timestamp="1658070052167" />
+    <state width="1191" height="242" key="GridCell.Tab.2.center" timestamp="1658070052167">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="242" key="GridCell.Tab.2.left/0.0.1234.775@0.0.1234.775" timestamp="1658058573125" />
-    <state width="1191" height="242" key="GridCell.Tab.2.right" timestamp="1658058573125">
+    <state width="1191" height="242" key="GridCell.Tab.2.center/0.0.1234.775@0.0.1234.775" timestamp="1658070052167" />
+    <state width="1191" height="242" key="GridCell.Tab.2.left" timestamp="1658070052167">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
-    <state width="1191" height="242" key="GridCell.Tab.2.right/0.0.1234.775@0.0.1234.775" timestamp="1658058573125" />
+    <state width="1191" height="242" key="GridCell.Tab.2.left/0.0.1234.775@0.0.1234.775" timestamp="1658070052167" />
+    <state width="1191" height="242" key="GridCell.Tab.2.right" timestamp="1658070052167">
+      <screen x="0" y="0" width="1234" height="775" />
+    </state>
+    <state width="1191" height="242" key="GridCell.Tab.2.right/0.0.1234.775@0.0.1234.775" timestamp="1658070052167" />
     <state x="98" y="0" key="SettingsEditor" timestamp="1658047982848">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
     <state x="98" y="0" key="SettingsEditor/0.0.1234.775@0.0.1234.775" timestamp="1658047982848" />
+    <state x="210" y="121" key="Vcs.Push.Dialog.v2" timestamp="1658061360052">
+      <screen x="0" y="0" width="1234" height="775" />
+    </state>
+    <state x="210" y="121" key="Vcs.Push.Dialog.v2/0.0.1234.775@0.0.1234.775" timestamp="1658061360052" />
+    <state x="413" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658061338513">
+      <screen x="0" y="0" width="1234" height="775" />
+    </state>
+    <state x="413" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1234.775@0.0.1234.775" timestamp="1658061338513" />
+    <state x="419" y="294" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1658061299800">
+      <screen x="0" y="0" width="1234" height="775" />
+    </state>
+    <state x="419" y="294" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1234.775@0.0.1234.775" timestamp="1658061299800" />
     <state x="0" y="48" key="new project wizard" timestamp="1658046708896">
       <screen x="0" y="0" width="1234" height="775" />
     </state>
@@ -195,16 +266,5 @@
       <screen x="0" y="0" width="1234" height="775" />
     </state>
     <state x="280" y="96" width="672" height="678" key="search.everywhere.popup/0.0.1234.775@0.0.1234.775" timestamp="1658052572535" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/dubbo-provider/src/main/java/org/example/dubbo/filter/AuthFilter.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

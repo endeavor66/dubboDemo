@@ -1,8 +1,10 @@
 package org.example.dubbo;
 
+import org.apache.dubbo.config.ApplicationConfig;
 import org.apache.dubbo.config.spring.context.annotation.EnableDubbo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.PropertySource;
 
 @EnableDubbo(scanBasePackages = {"org.example.dubbo.impl"})
